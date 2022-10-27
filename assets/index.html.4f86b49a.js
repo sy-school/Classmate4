@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as n}from"./app.fc75fd52.js";const o={},_=n("p",null,"点击左侧名字查看",-1),s=[_];function a(r,l){return t(),c("div",null,s)}const i=e(o,[["render",a],["__file","index.html.vue"]]);export{i as default};

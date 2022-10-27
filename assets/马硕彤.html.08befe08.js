@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b047422","path":"/content/%E9%A9%AC%E7%A1%95%E5%BD%A4.html","title":"马硕彤","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"马硕彤","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/马硕彤.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b46b330e","path":"/content/%E6%9F%B4%E8%8B%B1%E5%8D%9A.html","title":"柴英博","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"柴英博","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/柴英博.md"}');export{t as data};

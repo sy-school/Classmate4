@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-db3dc306","path":"/content/%E8%92%8B%E5%A3%B9%E8%89%AF.html","title":"蒋壹良","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"蒋壹良","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/蒋壹良.md"}');export{t as data};

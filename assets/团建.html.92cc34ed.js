@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as _,a as s}from"./app.fc75fd52.js";const o="/Classmate4/images/团建1.jpg",c="/Classmate4/images/团建2.jpg",a={},n=s("p",null,[s("img",{src:o,alt:"团建1"})],-1),l=s("p",null,[s("img",{src:c,alt:"团建2"})],-1),r=[n,l];function i(m,p){return e(),_("div",null,r)}const f=t(a,[["render",i],["__file","团建.html.vue"]]);export{f as default};

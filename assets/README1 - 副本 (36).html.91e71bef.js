@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b130b0dc","path":"/content/README1%20-%20%E5%89%AF%E6%9C%AC%20(36).html","title":"","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":null,"description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/README1 - 副本 (36).md"}');export{t as data};

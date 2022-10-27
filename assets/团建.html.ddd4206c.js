@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6d38ea65","path":"/guide/picture/%E5%9B%A2%E5%BB%BA.html","title":"团建","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"团建","description":"照片墙"},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/picture/团建.md"}');export{e as data};

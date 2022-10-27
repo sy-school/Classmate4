@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2fe2b160","path":"/content/%E9%82%93%E8%BF%A6%E6%96%87.html","title":"邓迦文","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"邓迦文","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/邓迦文.md"}');export{t as data};

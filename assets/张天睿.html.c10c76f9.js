@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-271bf46f","path":"/content/%E5%BC%A0%E5%A4%A9%E7%9D%BF.html","title":"张天睿","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"张天睿","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/张天睿.md"}');export{t as data};
